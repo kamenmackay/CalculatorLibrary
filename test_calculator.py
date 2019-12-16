@@ -2,7 +2,6 @@
 Unit test for the calculator library
 """
 
-
 import calculator
 
 
